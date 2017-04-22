@@ -8,7 +8,7 @@
  */
 
 import babelute from 'babelute';
-import htmlLexicon from 'babelute-html-lexicon';
+import htmlLexicon from 'htsl-lexicon';
 
 /**
  * html meta-tags dedicated lexicon. Extending htmlLexicon.
