@@ -7,5 +7,4 @@ chai.should();
 describe('CoverageBabel', () => {
 	it('returns hello world message', () => {
 	});
-
 });
