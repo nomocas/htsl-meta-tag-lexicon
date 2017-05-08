@@ -52,6 +52,8 @@ export default htmlLexicon.createDialect('html-meta')
 					.keywords(keywords)
 					.author(author);
 			},
+			
+			// @TODO : complete below
 			opengraph(name, value) {
 				return this.meta(name, value);
 			},
