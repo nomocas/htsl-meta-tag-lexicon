@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/nomocas/htsl-meta-tag-lexicon/compare/v0.1.1...v0.1.2) (2017-07-08)
+
+
+### Bug Fixes
+
+* **code:** clean code ([1d9ec5e](https://github.com/nomocas/htsl-meta-tag-lexicon/commit/1d9ec5e))
+* **package:** remove babelute dependency ([54c8fbd](https://github.com/nomocas/htsl-meta-tag-lexicon/commit/54c8fbd))
+* **package:** update dev dependencies ([454a84e](https://github.com/nomocas/htsl-meta-tag-lexicon/commit/454a84e))
+
+
+
 <a name="0.1.1"></a>
 ## 0.1.1 (2017-04-22)
 
